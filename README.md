@@ -1,4 +1,4 @@
-# Imperial-Aramaic Font with Early Imperial Aramaic artistic influences (cca. 550-330 BCE) 
+# Samaritan-Aramaic Font with Early Imperial Aramaic artistic influences. 
 
 [![][Fontbakery]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
 [![][Universal]](https://notofonts.github.io/imperial-aramaic/fontbakery/fontbakery-report.html)
